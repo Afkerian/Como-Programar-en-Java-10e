@@ -1,2 +1,2 @@
 # Como-Programar-en-Java-10e
-Explicación y solución de los ejercicios planteados en el libro "Java como programar décima edición" 
+Explicación y solución de los ejercicios planteados en el libro "Como programar en Java - décima edición" 
